@@ -38,7 +38,7 @@ The Power BI dashboard includes:
 ## 🚀 Tools & Technologies  
 - **Power BI**: For building dashboards and visualizations  
 - **DAX**: For calculated measures and KPIs  
-- **SQL / Excel (if used)**: For preprocessing and data cleaning  
+- **Excel**: For preprocessing and data cleaning  
 
 ---
 
